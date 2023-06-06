@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Applicationkotlin</string>
+    <string name="booknow">احجز الأن</string>
+    <string-array name="programming_languages">
+        <item>كاش</item>
+        <item>فيزا</item>
+
+    </string-array>
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+</resources>
